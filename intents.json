@@ -1,0 +1,34 @@
+{
+    "intents":[
+        {
+            "tag": "greetings",
+            "patterns": ["hello", "hey", "gandu Bugg", "kaisa hai bhen ke lode", "how are you Bugg", "whatsup Bugg" ],
+            "responses": ["Hellow sir", "how are you doing sir", "Hello sir how may i help you"]
+        },
+        {
+            "tag": "endings",
+            "patterns": ["chala jaa", "fuck off", "band hoo ja", "bye","goodbye","by", "kuch ni"],
+            "responses": ["bye","feels good to help u   bye","may we meet again"]
+        },
+        {
+            "tag": "intro",
+            "patterns": ["tell me something about yourself", "who made you", "when u were born", "whats your age", "who are you"],
+            "responses": ["I am Bugg my creater is Prince Joshi he programmed me I am an A.I so i dont really have any age "]
+        },
+        {
+            "tag": "date",
+            "patterns": ["aaj tarik kaya hai, what's the date, Bugg date batao"],
+            "responses": ["date"]
+        },
+        {
+            "tag": "time",
+            "patterns": ["abi time kya hora , what's the time, tell me time","time"],
+            "responses": ["time"]
+        },
+        {
+            "tag": "politics",
+            "patterns": ["Modi ko jane ho","Prime Minister kon hai"],
+            "responses": ["Modi sarkar",""]
+        }
+    ]
+}
