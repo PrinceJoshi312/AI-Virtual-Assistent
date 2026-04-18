@@ -1,0 +1,34 @@
+# Web Framework
+fastapi
+uvicorn
+pydantic
+
+# Core NLP & ML
+nltk
+numpy
+keras
+tensorflow
+torch
+torchvision
+torchaudio
+pickle5
+
+# Voice I/O
+SpeechRecognition
+pyttsx3
+pyaudio
+
+# Task automation & Utilities
+pyautogui
+pywhatkit
+requests
+webbrowser-redirection # alternative for webbrowser if needed, but standard is fine
+psutil
+wikipedia
+pycaw
+comtypes
+winshell
+
+# Gemini & Environment
+google-genai
+python-dotenv

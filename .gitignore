@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm/VSCode
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and dumps
+*.log
+*.bak
+
+# TensorFlow or Keras checkpoints
+*.h5
+checkpoint/
+
+# NLP or ML artifacts
+words.pkl
+classes.pkl
+
+# User-generated
+todo.txt
